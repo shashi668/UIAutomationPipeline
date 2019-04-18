@@ -6,6 +6,7 @@ public class Firstprogrammingtest {
 		 
 		System.out.println("My first program");
 		System.out.println("Integrate with Git Hub");
+		System.out.println("Edited from Git");
 	}
 
 }
